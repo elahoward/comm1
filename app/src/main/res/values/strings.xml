@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">elaActivityComm</string>
+    <string name="button">Afficher</string>
+    <string name="text2">Deuxième activité</string>
+</resources>
